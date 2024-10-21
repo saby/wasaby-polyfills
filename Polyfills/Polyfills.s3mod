@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ui_module id="f1c298b6-b127-4f3e-8499-55ad5427ee14" name="Polyfills" package="Presentation" required="1" responsible="Кудрявцев И.С." version="1.00">
+
+  <description/>
+
+  <depends/>
+
+  <load_after/>
+
+  <parameters/>
+
+  <resources/>
+
+  <preload/>
+
+</ui_module>
